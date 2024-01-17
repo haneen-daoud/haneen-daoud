@@ -1,7 +1,6 @@
 
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02080B&random=false&width=435&lines=Hello+World%2C+I'm+Haneen+Daoud+%F0%9F%92%9B" alt="Typing SVG" /></a>
+<img alt="GIF" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 700/>
 -----
 #### 
 I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestine Technical University - Kadoorie. In addition to my academic pursuits, I am deeply passionate about drawing, poetry, and literature. Whether I'm immersed in lines of code or strokes of a brush, I find joy in the fusion of technology and creativity, crafting meaningful interfaces and expressing myself through various artistic forms.
@@ -10,10 +9,11 @@ I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestin
 - 💞️ Open to collaboration in various tech areas and contributing to exciting projects.
 - 📚 Working on building a strong understanding of web technologies and application development.
 - 📫 You can reach me via email: haneen2592002@gmail.com.
-- 🔗 Feel free to visit my LinkedIn profile: [My LinkedIn Profile](https://www.linkedin.com/in/haneen-daoud-988bb0220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
-<h3 align="center">A passionate frontend developer from </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02080B&random=false&width=435&lines=Hello+World%2C+I'm+Haneen+Daoud+%F0%9F%92%9B" alt="Typing SVG" /></a>
-<img alt="GIF" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 700/>
+- 🔗 Feel free to visit my codeforces  profile: [My Codeforces Profile](https://codeforces.com/profile/Haneendaoud18).
+
+
+
+
 ### My skills :woman_technologist:
 - **Competitive Coding**
 <table>
@@ -98,10 +98,7 @@ I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestin
    - Artificial Intelligence
     
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
 
-</p>
 
 <br> <br>
 
@@ -118,9 +115,11 @@ I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestin
 <a href="https://www.facebook.com/people/Haneen-Y-Daoud/pfbid04vLaqsA5ZHvYatjT55hyARQTKNHJdiN1PrCUpy6zrZucPLXBmu5YQpiVCHRGHDY6l/?mibextid=ZbWKwL">
   <img align="left" alt="Shreya's Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+
+<a href="https://www.hackerrank.com/profile/haneen2592002">
+  <img align="left" alt="haneen daoud Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+
 <br><br>
 
 #### Thanks for visiting :heart:
