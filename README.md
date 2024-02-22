@@ -102,7 +102,7 @@ I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestin
 
 <br> <br>
 
- <a href="https://twitter.com/shreyaaaa_">
+ <a href="https://twitter.com">
   <img align="left" alt="haneen daoud Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/haneen-daoud-988bb0220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
