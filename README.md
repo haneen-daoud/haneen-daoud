@@ -132,3 +132,4 @@ I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestin
 
 Credit: [haneen-daoud](https://github.com/haneen-daoud)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
