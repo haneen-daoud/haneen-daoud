@@ -12,6 +12,7 @@
 - 🔗 Feel free to visit my codeforces  profile: [My Codeforces Profile](https://codeforces.com/profile/Haneendaoud18).
 - 👀 Explore my projects available in :[ My Repositories](https://github.com/haneen-daoud?tab=repositories)
 
+<img src="https://img95.699pic.com/photo/40153/3010.gif_wh300.gif" alt="line" width="500"/>
 
 
 
@@ -37,6 +38,7 @@
 
 </tbody>
 </table>
+<img src="https://img95.699pic.com/photo/40153/3010.gif_wh300.gif" alt="line" width="500"/>
 
 - **Web Development**
 <table>
@@ -73,11 +75,13 @@
  </tr>
 </tbody>
 </table>
+<img src="https://img95.699pic.com/photo/40153/3010.gif_wh300.gif" alt="line" width="500"/>
 
 - **Data Science**
   - Data Visualization
   - Data Analysis
  
+<img src="https://img95.699pic.com/photo/40153/3010.gif_wh300.gif" alt="line" width="500"/>
 
 ### I'm currently learning :open_book:
 
@@ -123,6 +127,7 @@
 </a>
 
 <br><br>
+<img src="https://img95.699pic.com/photo/40153/3010.gif_wh300.gif" alt="line" width="500"/>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/haneen-/count.svg)
