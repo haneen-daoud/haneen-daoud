@@ -3,7 +3,7 @@
 <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 700/>
 -----
 #### 
- I am a fourth-year Computer Engineering student with a passion for designing and developing web interfaces. I am committed to creating engaging and efficient user experiences, leveraging the latest technologies and best practices in the industry to produce responsive and user-friendly web interfaces. I continuously strive to enhance my skills and expand my knowledge to deliver creative solutions that meet user needs and exceed their expectations. Welcome to my space, where I share my projects, experiences, and journey in the web development world.
+ As a fourth-year Computer Engineering student, my passion lies in developing web interfaces that are both engaging and user-friendly. I utilize the latest technologies and best practices to create responsive designs. My goal is to continuously improve my skills to deliver innovative solutions that exceed user expectations. Welcome to my space, where I share my journey and projects in web development.
 - 👀 Currently learning HTML, CSS, JavaScript, and React. Looking forward to acquiring back-end skills soon.
 - 🌱 Have studied C++, Java, data structures, and algorithms.
 - 💞️ Open to collaboration in various tech areas and contributing to exciting projects.
