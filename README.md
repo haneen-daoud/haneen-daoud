@@ -3,7 +3,7 @@
 <img alt="GIF" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 700/>
 -----
 #### 
-I'm Haneen Daoud, a fourth-year Computer Systems Engineering student at Palestine Technical University - Kadoorie. In addition to my academic pursuits, I am deeply passionate about drawing, poetry, and literature. Whether I'm immersed in lines of code or strokes of a brush, I find joy in the fusion of technology and creativity, crafting meaningful interfaces and expressing myself through various artistic forms.
+Hello, my name is Haneen Dawood. I am a fourth-year Computer Engineering student with a passion for designing and developing web interfaces. I am committed to creating engaging and efficient user experiences, leveraging the latest technologies and best practices in the industry to produce responsive and user-friendly web interfaces. I continuously strive to enhance my skills and expand my knowledge to deliver creative solutions that meet user needs and exceed their expectations. Welcome to my space, where I share my projects, experiences, and journey in the web development world.
 - 👀 Currently learning HTML, CSS, JavaScript, and React. Looking forward to acquiring back-end skills soon.
 - 🌱 Have studied C++, Java, data structures, and algorithms.
 - 💞️ Open to collaboration in various tech areas and contributing to exciting projects.
